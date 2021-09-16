@@ -1,0 +1,16 @@
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.exe
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.deps.json
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.runtimeconfig.json
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.runtimeconfig.dev.json
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.dll
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\ref\StudentAndTeacherTest.dll
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.pdb
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.csproj.AssemblyReference.cache
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.AssemblyInfoInputs.cache
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.AssemblyInfo.cs
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.csproj.CoreCompileInputs.cache
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.dll
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\ref\StudentAndTeacherTest.dll
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.pdb
+D:\Gordon School\Self Taught\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.genruntimeconfig.cache
